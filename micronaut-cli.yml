@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: net.hankbot
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, github-workflow-graal-docker-registry, gradle, http-client, jackson-databind, java, java-application, logback, micronaut-build, netty-server, openapi, readme, shade, spock, swagger-ui, toml, toml-build]
